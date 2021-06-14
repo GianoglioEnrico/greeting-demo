@@ -1,0 +1,1 @@
+node greetings.js [<name>]
